@@ -1,0 +1,50 @@
+.logo{
+    max-width: 100% !important;
+}
+
+.sidebar{
+    background-color:#202c39;
+    color: #b8b08d;
+}
+.sidebar h2 a{
+    background: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} 
+.sidebar h2 a:hover{
+    color:  #ff4e50;
+    -webkit-text-fill-color: white;
+} 
+.sidebar h2{
+    margin-top: 3vh;
+
+}
+.sidebar h4{
+    color: #e2a522;
+}
+
+.sidebar a{
+    color: #767691;
+}
+.sidebar a:hover{
+    color: #ff4e50;
+}
+
+h1.title {
+    background: linear-gradient(to right, #424a74 0%, #68f330 60%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+}
+.desc{
+    font-style: italic;
+}
+
+a h1{
+    color: #6371b6;
+    transition: all 0.5s;
+}
+a h1:hover{
+    color: #f98a23;
+    transition: all 0.5s;
+
+}
