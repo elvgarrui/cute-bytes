@@ -48,3 +48,8 @@ a h1:hover{
     transition: all 0.5s;
 
 }
+
+.sidebar-overlay::after{
+    background: #202c39 !important;
+    opacity: 1 !important; 
+}
