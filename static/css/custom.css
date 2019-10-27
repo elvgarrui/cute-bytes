@@ -11,7 +11,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 } 
-.sidebar h2 a:hover{
+.sidebar h2 a:hover, .sidebar h2 a:focus{
     color:  #ff4e50;
     -webkit-text-fill-color: white;
 } 
@@ -26,7 +26,7 @@
 .sidebar a{
     color: #767691;
 }
-.sidebar a:hover{
+.sidebar a:hover, .sidebar a:focus{
     color: #ff4e50;
 }
 
